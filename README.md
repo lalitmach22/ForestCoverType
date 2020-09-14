@@ -1,6 +1,10 @@
 # ForestCoverType
 multi classification 
-This repository contains the Jupyter Notebook for use of machine learning to create a model that predicts forest cover types
+
+
+This repository contains the Jupyter Notebook for use of machine learning to create a model that predicts forest cover types.
+The Notebook covers all the basics and steps of machine learning techniques for classification problems.
+Another Notebook ( Titanic survival prediction is available at "https://github.com/lalitmach22/Titanic"
 
 https://www.kaggle.com/c/forest-cover-type-prediction
 
